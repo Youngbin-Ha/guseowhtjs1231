@@ -1,7 +1,7 @@
 
- <div align=center>
+ <div align=left>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinDevT)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguseowhtjs1231)](https://hits.seeyoufarm.com)
   ### Hi there 👋
   #### I am a Junior Developer.
   #### I am familiar with ...
