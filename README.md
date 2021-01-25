@@ -6,7 +6,7 @@
   #### I am a Junior Developer.
   #### I am familiar with these ...
   #### language : Python HTML/CSS Node.JS, TypeScript, C#
-  #### framework : Express.JS Meteor.JS Django
+  #### framework : Express.JS Meteor.JS Django, ASP.NET
   #### DB : SQL Sever, NoSQL, MongoDB
   #### environment : Agile development, Linux, RESTful, MVC, VCS, Minimal Viable Product, Object-Oriented Programming
 [![Blog Badge](https://img.shields.io/badge/-Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://guseowhtjs.tistory.com/)](https://guseowhtjs.tistory.com/) 
