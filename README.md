@@ -2,9 +2,9 @@
  <div align=left>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fguseowhtjs1231)](https://hits.seeyoufarm.com)
-  ### //Hi there 👋
-  #### //I am a Junior Developer.
-  #### //I am familiar with these things 
+  ### Hi there 👋
+  #### I am a Junior Developer.
+  #### I am familiar with these things 
   #### "Skills" : {
   #### Language : [ Python, HTML/CSS, C#, Javascript ],
   #### Liabrary : [ JQuery, Express.JS, Meteor.JS ],
