@@ -8,11 +8,12 @@
   #### "Skills" : {
   #### Language : [ Python, HTML/CSS, C#, Javascript ],
   #### Liabrary : [ JQuery, Express.JS, Meteor.JS ],
-  #### Framework : [ Node.JS, Django ],
+  #### Framework : [ Node.JS, Django, .NET Framework 4.8, ASP.NET core 5.0 ],
   #### DB : [ SQL Sever, NoSQL, MongoDB ],
   #### Environment : [ Agile development, Linux, RESTful, MVC, VCS, Minimal Viable Product, Object-Oriented Programming],
   #### Cloud experience : [ Azure, AWS, GCP ]
   #### }
+  #### - 🔭 I’m currently working on Kiss Products, Inc.
 [![Blog Badge](https://img.shields.io/badge/-Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://guseowhtjs.tistory.com/)](https://guseowhtjs.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guseowhtjs@gmail.com)](mailto:guseowhtjs@gmail.com)
 </div>
@@ -24,7 +25,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
