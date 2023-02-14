@@ -6,7 +6,7 @@
   #### I am a Junior Developer.
   #### I am familiar with these things 
   #### "Skills" : {
-  #### Language : [ Python, HTML/CSS, C#, Javascript ],
+  #### Language : [ Python, HTML/CSS, C#, Javascript, PHP ],
   #### Liabrary : [ JQuery, Express.JS, Meteor.JS ],
   #### Framework : [ Node.JS, Django, .NET Framework 4.8, ASP.NET core 5.0 ],
   #### DB : [ SQL Sever, NoSQL, MongoDB ],
